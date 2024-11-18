@@ -10,3 +10,7 @@ Git and Github
 7. Create reposotory in Github path
 8. Connect branch to Github directory using the website_link using "git remote add origin command"
 9. Finally transmit film using "git push -u command"
+
+If we modify the film transmited
+1. Modify the file
+2. Used the step 4 and 5 and skip to finally step (skip due the branch is done ald)
